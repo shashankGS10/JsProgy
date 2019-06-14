@@ -14,21 +14,12 @@ app.get('/users/:id/about-me', (req, res) => {
     const result = users.filter(user => user.id === req.params.id)[0];
     res.send(result.about);
 });
-app.post('/friend_request',function(req,res){
+app.post('/newpost',function(req,res){
     var sender= req.body.sender_id;
     console.log(sender);
-    var receiver=req.body.receiver_id;
-    console.log(receiver);
-    
-    if(sender!== receiver) {
-        console.log("Request Sent");
-        res.send("Request Sent");
-    }
-    else{
-        console.log("Bad Request");
-        res.send("Bad request");
-    }
+    res.send("posted");
   });
+  
 
 app.listen(8080, () => {
   console.log(`Server listening on port 8080...`);

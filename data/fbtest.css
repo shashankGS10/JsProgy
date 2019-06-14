@@ -88,10 +88,67 @@ body{ background: linear-gradient(to bottom right, white, #bcbdc4);
         padding-right:10px;
         padding-top:10px;
         }
+    .post2{top:290px;
+        top: 910px;
+        left: 240px;
+        background: white;
+        position: absolute;
+        width: 580px;
+        height: 600px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        border-radius: 3px/3px;
+        }
+    .post3{top:290px;
+        top: 1530px;
+        left: 240px;
+        position: absolute;
+        background: white;
+        width: 580px;
+        height: 600px;
+        border-radius: 3px/3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        }
+    .post4{top:290px;
+        top: 2150px;
+        left: 240px;
+        position: absolute;
+        background: white;
+        width: 580px;
+        height: 600px;
+        border-radius: 3px/3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        }
     #profpic {
         height: 30px;
     }
+    #post1text {
+        left: 40px;
+        top: 0px;
+        padding-top: 10px;
+        height: 40px;
+        width: 400px;
+    }
     #post2text {
+        left: 40px;
+        top: 0px;
+        padding-top: 10px;
+        height: 40px;
+        width: 400px;
+    }
+    #post3text {
+        left: 40px;
+        top: 0px;
+        padding-top: 10px;
+        height: 40px;
+        width: 400px;
+    }
+    #post4text {
         left: 40px;
         top: 0px;
         padding-top: 10px;
