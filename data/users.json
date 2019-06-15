@@ -5,7 +5,7 @@
         "DOB": "1/01/1997",
         "about": "Hi there,This is my account. I love cricket",
         "post id":"1",
-        "feeb" :[ "Yuvraj Singh" , "Indian Cricket" , "Mr. Bean" ,"Dev Jammy"]
+        "feed" :[ "Yuvraj Singh" , "Indian Cricket" , "Mr. Bean" ,"Dev Jammy"]
     },
     {
         "id":"2",
