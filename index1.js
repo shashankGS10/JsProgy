@@ -1,6 +1,6 @@
 
 function aboutMe(){ 
-    $.get("/users/1/about-me",function(data, status){console.log(data);
+    $.get("/users/1/about-me",function(data, status){alert(data);
     console.log(status)});
    }
  function postAlert(){

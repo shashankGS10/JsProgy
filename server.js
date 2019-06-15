@@ -19,7 +19,10 @@ app.post('/newpost',function(req,res){
     console.log(sender);
     res.send("posted");
   });
-  
+app.get('/users/1/feed',(req,res)=>{
+  const result = user.filter(user=>user.id === req.params.id)[0];
+  res.send(result.feed);
+})
 
 app.listen(8080, () => {
   console.log(`Server listening on port 8080...`);
