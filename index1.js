@@ -11,4 +11,4 @@ function initailize(){
    $.get("/users/1/feed'" ,function(data,status){
       console.log(data);
        })};
-      
+      //jquery
