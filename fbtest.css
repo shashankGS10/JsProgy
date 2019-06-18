@@ -1,0 +1,176 @@
+body{ background: linear-gradient(to bottom right, white, #bcbdc4);
+    height:4000px;}
+    a{color:white;
+    text-decoration:none;}
+   p1{color:#1b6192;
+    font-family:verdana;
+    font-size:15px;}
+    p2{color:#868383;
+    font-family:verdana;
+    font-size:15px;}
+    p3{color:#1b6192;
+    font-family:verdana;
+    font-size:15px;
+    font-weight:bold;}
+    p4{color:#868383;
+    font-family:verdana;
+    font-size:10px;}
+    p6{color:#1b6192;
+    font-family:verdana;
+    font-size:15px;
+    word-spacing:10px;}
+    p7{font-size:20px;
+    color:#868383;
+    font-family:verdana;}
+    
+    .header1{
+    position:fixed;
+    width:100%;
+    height:60px;
+    background:#142170;
+    top:0;
+    left:0;
+    color:white;
+    z-index:7;
+    }
+    #img3{left:100px;
+    height:50px;
+    top:5px;}
+    .post{top:70px;
+    left:240px;
+    position:absolute;
+    width:600px;
+    height:210px;
+    }
+    #column-1{left:0px;
+        top:0px;
+        background:white;
+        width:580px;
+        height:200px;
+        border-radius:3px/3px;
+        font-size:15px;
+        font-family:verdana;
+        color:#1b6192;
+        padding-left:10px;
+        padding-right:10px;
+        padding-top:10px;
+        }
+    #postpos{left:450px;
+        top:170px;
+        width:85px;
+        height:30px;}
+    #postboxpos{top:45px;
+        left:10px;
+        height:105px;
+        width:580px;
+        z-index:5;}
+    #postbox{height:105px;
+        outline:none;
+        border:white;
+        background:#e9f0f2;
+        width:580px;}
+    #buttonpost{width:85px;
+        height:30px;
+        border-radius:4px/4px;
+        background:#142170;
+        font-size:15px;
+        outline:none;
+        color:white;
+        }
+    .post1{top:290px;
+        left:240px;
+        position:absolute;
+        background:white;
+        width:580px;
+        height:600px;
+        border-radius:3px/3px;
+        padding-left:10px;
+        padding-right:10px;
+        padding-top:10px;
+        }
+    .post2{top:290px;
+        top: 910px;
+        left: 240px;
+        background: white;
+        position: absolute;
+        width: 580px;
+        height: 600px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        border-radius: 3px/3px;
+        }
+    .post3{top:290px;
+        top: 1530px;
+        left: 240px;
+        position: absolute;
+        background: white;
+        width: 580px;
+        height: 600px;
+        border-radius: 3px/3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        }
+    .post4{top:290px;
+        top: 2150px;
+        left: 240px;
+        position: absolute;
+        background: white;
+        width: 580px;
+        height: 600px;
+        border-radius: 3px/3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        }
+    #profpic {
+        height: 30px;
+    }
+    #post1text {
+        left: 40px;
+        top: 0px;
+        padding-top: 10px;
+        height: 40px;
+        width: 400px;
+    }
+    #post2text {
+        left: 40px;
+        top: 0px;
+        padding-top: 10px;
+        height: 40px;
+        width: 400px;
+    }
+    #post3text {
+        left: 40px;
+        top: 0px;
+        padding-top: 10px;
+        height: 40px;
+        width: 400px;
+    }
+    #post4text {
+        left: 40px;
+        top: 0px;
+        padding-top: 10px;
+        height: 40px;
+        width: 400px;
+    }
+    #profilearea {
+        top: 15px;
+        left: 780px;
+        height: 40px;
+    }
+    a {
+        color: white;
+        text-decoration: none;
+    }
+    #profpic {
+        height: 30px;
+    }
+    #profilearea1 {
+        top: 20px;
+        left: 830px;
+        height: 20px;
+        font-size: 20px;
+        font-family: verdana;
+    }

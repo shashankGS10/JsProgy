@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "name": "Sam",
+        "DOB": "1/01/1997",
+        "about": "Hi there,This is my account. I love cricket",
+        "post id":"1",
+        "feed" :[ "Yuvraj Singh" , "Indian Cricket" , "Mr. Bean" ,"Dev Jammy"]
+    },
+    {
+        "id":"2",
+        "name":"john",
+        "DOB": "2/01/1997",
+        "about": "I love playing football",
+        "post id":"2"
+    }
+]
